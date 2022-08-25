@@ -1,4 +1,3 @@
 # CodingTest_Exercise
 
-#### Baekjoon_online
-#### Programmers
+#### Baekjoon_online / Programmers
